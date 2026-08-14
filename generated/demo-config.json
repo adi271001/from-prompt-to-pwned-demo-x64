@@ -1,0 +1,6 @@
+{
+  "region": "us-east-1",
+  "bucket": "fp2pwned-demo-175546876563",
+  "secret_name": "fp2pwned/demo-secret",
+  "model_id": "amazon.nova-lite-v1:0"
+}
